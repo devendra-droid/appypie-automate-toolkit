@@ -4,7 +4,7 @@ Example: Webhook Handler & Tester
 Test webhook endpoints and verify signatures for secure automation.
 
 Set up webhooks on Appy Pie Automate: https://appypieautomate.ai/dashboard
-Docs: https://appypieautomate.ai/kb
+Docs: https://helpdesk.appypieautomate.ai/portal/en/kb/automate
 """
 
 import sys
@@ -48,7 +48,7 @@ def main():
     print(f"  1-step workflow: ~{est['estimated_seconds']}s")
 
     print(f"\n🔗 Set up production webhooks: https://appypieautomate.ai/dashboard")
-    print(f"📖 Webhook docs: https://appypieautomate.ai/kb")
+    print(f"📖 Webhook docs: https://helpdesk.appypieautomate.ai/portal/en/kb/automate")
 
 
 if __name__ == "__main__":

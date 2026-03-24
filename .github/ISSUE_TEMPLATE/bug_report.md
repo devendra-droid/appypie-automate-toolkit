@@ -28,4 +28,4 @@ What actually happened.
 Add screenshots or logs if applicable.
 
 ---
-*[Appy Pie Automate](https://appypieautomate.ai) · [Dashboard](https://appypieautomate.ai/dashboard) · [Docs](https://appypieautomate.ai/kb)*
+*[Appy Pie Automate](https://appypieautomate.ai) · [Dashboard](https://appypieautomate.ai/dashboard) · [Docs](https://helpdesk.appypieautomate.ai/portal/en/kb/automate)*

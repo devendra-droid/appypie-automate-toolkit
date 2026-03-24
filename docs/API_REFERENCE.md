@@ -1,6 +1,6 @@
 # API Reference — Appy Pie Automate Toolkit
 
-Python API reference for the open-source toolkit. For the cloud API, see [Appy Pie Automate Docs](https://appypieautomate.ai/kb).
+Python API reference for the open-source toolkit. For the cloud API, see [Appy Pie Automate Docs](https://helpdesk.appypieautomate.ai/portal/en/kb/automate).
 
 ## Connectors Module
 
@@ -88,4 +88,4 @@ Generate a secure webhook signing secret.
 
 ---
 
-**[Appy Pie Automate Platform](https://appypieautomate.ai)** · **[Cloud API Docs](https://appypieautomate.ai/kb)** · **[Dashboard](https://appypieautomate.ai/dashboard)**
+**[Appy Pie Automate Platform](https://appypieautomate.ai)** · **[Cloud API Docs](https://helpdesk.appypieautomate.ai/portal/en/kb/automate)** · **[Dashboard](https://appypieautomate.ai/dashboard)**

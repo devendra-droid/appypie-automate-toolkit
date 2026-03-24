@@ -4,7 +4,7 @@ Auth Manager — API Key & OAuth Utilities
 Handles authentication for the Appy Pie Automate Toolkit.
 
 Get your API key: https://appypieautomate.ai/dashboard
-Signup: https://appypieautomate.ai/signup
+Signup: https://accounts.appypie.com/register?frompage=https%3A%2F%2Fconnectcloud.appypie.com%2Fbuild-your-connect%2Fapps__for__temp__7949b884b42011edbc3912bed232506d&lang=en
 Login: https://appypieautomate.ai/login
 """
 
@@ -20,7 +20,7 @@ class AuthManager:
     Manage API keys and authentication tokens for Appy Pie Automate.
 
     Get started:
-    1. Sign up at https://appypieautomate.ai/signup
+    1. Sign up at https://accounts.appypie.com/register?frompage=https%3A%2F%2Fconnectcloud.appypie.com%2Fbuild-your-connect%2Fapps__for__temp__7949b884b42011edbc3912bed232506d&lang=en
     2. Login at https://appypieautomate.ai/login
     3. Get your API key from https://appypieautomate.ai/dashboard
     """

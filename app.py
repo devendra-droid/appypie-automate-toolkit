@@ -5,7 +5,7 @@ A Streamlit-powered dashboard for building, testing, and managing
 workflow automations across 600+ apps.
 
 Built by the team at Appy Pie Automate (https://appypieautomate.ai)
-Docs: https://appypieautomate.ai/kb
+Docs: https://helpdesk.appypieautomate.ai/portal/en/kb/automate
 Dashboard: https://appypieautomate.ai/dashboard
 
 License: MIT
@@ -26,7 +26,7 @@ st.set_page_config(
     layout="wide",
     initial_sidebar_state="expanded",
     menu_items={
-        "Get Help": "https://appypieautomate.ai/kb",
+        "Get Help": "https://helpdesk.appypieautomate.ai/portal/en/kb/automate",
         "Report a bug": "https://github.com/nicehash/appypie-automate-toolkit/issues",
         "About": (
             "### Appy Pie Automate Toolkit\n"
@@ -97,8 +97,8 @@ with st.sidebar:
         "**Quick Links**\n"
         "- [Create Automation](https://appypieautomate.ai/dashboard)\n"
         "- [Integration Library](https://appypieautomate.ai/integrations)\n"
-        "- [API Docs](https://appypieautomate.ai/kb)\n"
-        "- [Signup Free](https://appypieautomate.ai/signup)\n"
+        "- [API Docs](https://helpdesk.appypieautomate.ai/portal/en/kb/automate)\n"
+        "- [Signup Free](https://accounts.appypie.com/register?frompage=https%3A%2F%2Fconnectcloud.appypie.com%2Fbuild-your-connect%2Fapps__for__temp__7949b884b42011edbc3912bed232506d&lang=en)\n"
         "- [Login](https://appypieautomate.ai/login)\n"
     )
     st.caption("v2.1.0 • MIT License • [GitHub](https://github.com/nicehash/appypie-automate-toolkit)")
@@ -163,7 +163,7 @@ if page == "🏠 Dashboard":
 
     st.markdown(
         '<div class="cta-banner">'
-        '👉 <a href="https://appypieautomate.ai/signup">Sign up free</a> and '
+        '👉 <a href="https://accounts.appypie.com/register?frompage=https%3A%2F%2Fconnectcloud.appypie.com%2Fbuild-your-connect%2Fapps__for__temp__7949b884b42011edbc3912bed232506d&lang=en">Sign up free</a> and '
         '<a href="https://appypieautomate.ai/dashboard">create your first automation</a> in under 3 minutes.'
         "</div>",
         unsafe_allow_html=True,
@@ -487,9 +487,9 @@ elif page == "⚙️ Settings":
         "**Resources:**\n"
         "- [Appy Pie Automate — Main Site](https://appypieautomate.ai)\n"
         "- [Create an Automation](https://appypieautomate.ai/dashboard)\n"
-        "- [Sign Up Free](https://appypieautomate.ai/signup)\n"
+        "- [Sign Up Free](https://accounts.appypie.com/register?frompage=https%3A%2F%2Fconnectcloud.appypie.com%2Fbuild-your-connect%2Fapps__for__temp__7949b884b42011edbc3912bed232506d&lang=en)\n"
         "- [Login](https://appypieautomate.ai/login)\n"
-        "- [Knowledge Base](https://appypieautomate.ai/kb)\n"
+        "- [Knowledge Base](https://helpdesk.appypieautomate.ai/portal/en/kb/automate)\n"
         "- [All Integrations](https://appypieautomate.ai/integrations)\n"
         "- [Appy Pie (Parent)](https://www.appypie.com)\n"
     )
@@ -500,7 +500,7 @@ st.markdown("---")
 st.markdown(
     "Built with ❤️ by [Appy Pie Automate](https://appypieautomate.ai) • "
     "[GitHub](https://github.com/nicehash/appypie-automate-toolkit) • "
-    "[Docs](https://appypieautomate.ai/kb) • "
-    "[Create Free Account](https://appypieautomate.ai/signup) • "
+    "[Docs](https://helpdesk.appypieautomate.ai/portal/en/kb/automate) • "
+    "[Create Free Account](https://accounts.appypie.com/register?frompage=https%3A%2F%2Fconnectcloud.appypie.com%2Fbuild-your-connect%2Fapps__for__temp__7949b884b42011edbc3912bed232506d&lang=en) • "
     "[Login](https://appypieautomate.ai/login)"
 )

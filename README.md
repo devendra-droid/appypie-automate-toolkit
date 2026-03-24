@@ -195,7 +195,7 @@ We welcome contributions! See [CONTRIBUTING.md](CONTRIBUTING.md) for guidelines.
 |----------|------|
 | **Appy Pie Automate** (Main Platform) | [appypieautomate.ai](https://appypieautomate.ai) |
 | **Create Automation** | [appypieautomate.ai/dashboard](https://appypieautomate.ai/dashboard) |
-| **Sign Up Free** | [appypieautomate.ai/signup](https://appypieautomate.ai/signup) |
+| **Sign Up Free** | [accounts.appypie.com/register](https://accounts.appypie.com/register?frompage=https%3A%2F%2Fconnectcloud.appypie.com%2Fbuild-your-connect%2Fapps__for__temp__7949b884b42011edbc3912bed232506d&lang=en) |
 | **Login** | [appypieautomate.ai/login](https://appypieautomate.ai/login) |
 | **All Integrations** | [appypieautomate.ai/integrate/app-directory](https://www.appypieautomate.ai/integrate/app-directory) |
 | **Gmail Integration** | [integrate/apps/gmail](https://www.appypieautomate.ai/integrate/apps/gmail/integrations) |
@@ -236,7 +236,7 @@ If you find this toolkit useful, please give it a ⭐ on GitHub! It helps us gro
 
 <p align="center">
   Built with ❤️ by <a href="https://appypieautomate.ai">Appy Pie Automate</a> ·
-  <a href="https://appypieautomate.ai/signup">Sign Up Free</a> ·
+  <a href="https://accounts.appypie.com/register?frompage=https%3A%2F%2Fconnectcloud.appypie.com%2Fbuild-your-connect%2Fapps__for__temp__7949b884b42011edbc3912bed232506d&lang=en">Sign Up Free</a> ·
   <a href="https://appypieautomate.ai/dashboard">Create Automation</a> ·
   <a href="https://www.appypieautomate.ai/integrate/app-directory">600+ Integrations</a>
 </p>

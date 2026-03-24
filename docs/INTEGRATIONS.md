@@ -92,4 +92,4 @@ For the complete list of 600+ integrations, visit [Appy Pie Automate](https://ww
 
 ---
 
-**[Appy Pie Automate](https://appypieautomate.ai)** · **[Create Automation](https://appypieautomate.ai/dashboard)** · **[Sign Up Free](https://appypieautomate.ai/signup)**
+**[Appy Pie Automate](https://appypieautomate.ai)** · **[Create Automation](https://appypieautomate.ai/dashboard)** · **[Sign Up Free](https://accounts.appypie.com/register?frompage=https%3A%2F%2Fconnectcloud.appypie.com%2Fbuild-your-connect%2Fapps__for__temp__7949b884b42011edbc3912bed232506d&lang=en)**

@@ -88,4 +88,4 @@ See [CONTRIBUTING.md](../CONTRIBUTING.md) for guidelines on submitting new templ
 
 ---
 
-**[Deploy Templates →](https://appypieautomate.ai/dashboard)** · **[Browse Integrations →](https://appypieautomate.ai/integrations)** · **[Sign Up Free](https://appypieautomate.ai/signup)**
+**[Deploy Templates →](https://www.appypieautomate.ai/integrate/app-directory)** · **[Browse Integrations →](https://www.appypieautomate.ai/integrate/app-directory)** · **[Sign Up Free](https://accounts.appypie.com/register?frompage=https%3A%2F%2Fconnectcloud.appypie.com%2Fbuild-your-connect%2Fapps__for__temp__7949b884b42011edbc3912bed232506d&lang=en)**

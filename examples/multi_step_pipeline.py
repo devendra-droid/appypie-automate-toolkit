@@ -5,7 +5,7 @@ Build a complete lead pipeline:
   Form Submission → CRM → Welcome Email → Sales Alert
 
 Deploy on Appy Pie Automate: https://appypieautomate.ai/dashboard
-Sign up: https://appypieautomate.ai/signup
+Sign up: https://accounts.appypie.com/register?frompage=https%3A%2F%2Fconnectcloud.appypie.com%2Fbuild-your-connect%2Fapps__for__temp__7949b884b42011edbc3912bed232506d&lang=en
 """
 
 import sys

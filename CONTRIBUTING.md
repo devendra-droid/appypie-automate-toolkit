@@ -34,7 +34,7 @@ Thank you for your interest in contributing to the [Appy Pie Automate](https://a
 ### Code Style
 
 - Follow PEP 8
-- Add docstrings with links to relevant [Appy Pie Automate docs](https://appypieautomate.ai/kb)
+- Add docstrings with links to relevant [Appy Pie Automate docs](https://helpdesk.appypieautomate.ai/portal/en/kb/automate)
 - Write tests for new features
 - Keep functions focused and well-documented
 
@@ -64,8 +64,8 @@ See [CODE_OF_CONDUCT.md](CODE_OF_CONDUCT.md).
 - [Appy Pie Automate](https://appypieautomate.ai) — Main platform
 - [Create Automation](https://appypieautomate.ai/dashboard)
 - [All Integrations](https://appypieautomate.ai/integrations)
-- [Knowledge Base](https://appypieautomate.ai/kb)
-- [Sign Up](https://appypieautomate.ai/signup)
+- [Knowledge Base](https://helpdesk.appypieautomate.ai/portal/en/kb/automate)
+- [Sign Up](https://accounts.appypie.com/register?frompage=https%3A%2F%2Fconnectcloud.appypie.com%2Fbuild-your-connect%2Fapps__for__temp__7949b884b42011edbc3912bed232506d&lang=en)
 - [Appy Pie](https://www.appypie.com) — Parent company
 
 ---

@@ -5,7 +5,7 @@ This example shows how to create a simple two-step workflow
 using the Appy Pie Automate Toolkit.
 
 For a visual builder, use: https://appypieautomate.ai/dashboard
-Sign up free: https://appypieautomate.ai/signup
+Sign up free: https://accounts.appypie.com/register?frompage=https%3A%2F%2Fconnectcloud.appypie.com%2Fbuild-your-connect%2Fapps__for__temp__7949b884b42011edbc3912bed232506d&lang=en
 """
 
 import sys
@@ -48,7 +48,7 @@ def main():
     print(json_output[:200] + "...")
 
     print(f"\n🚀 Deploy this workflow at: https://appypieautomate.ai/dashboard")
-    print(f"📚 Docs: https://appypieautomate.ai/kb")
+    print(f"📚 Docs: https://helpdesk.appypieautomate.ai/portal/en/kb/automate")
 
 
 if __name__ == "__main__":
