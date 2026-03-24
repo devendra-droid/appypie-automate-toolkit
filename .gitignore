@@ -32,3 +32,4 @@ Thumbs.db
 htmlcov/
 .coverage
 coverage.xml
+.github/workflows/
