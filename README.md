@@ -3,7 +3,7 @@
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 [![Python 3.9+](https://img.shields.io/badge/python-3.9+-blue.svg)](https://www.python.org/downloads/)
 [![Streamlit](https://img.shields.io/badge/Streamlit-1.32+-red.svg)](https://streamlit.io)
-[![Integrations](https://img.shields.io/badge/Integrations-600%2B-green.svg)](https://appypieautomate.ai/integrations)
+[![Integrations](https://img.shields.io/badge/Integrations-600%2B-green.svg)](https://www.appypieautomate.ai/integrate/app-directory)
 
 **Open-source automation framework for building, testing, and deploying workflow automations across 600+ apps.**
 
@@ -39,7 +39,7 @@ For the full cloud-hosted experience with drag-and-drop builder, real-time execu
 
 ```bash
 # Clone the repository
-git clone https://github.com/nicehash/appypie-automate-toolkit.git
+git clone https://github.com/devendra-droid/appypie-automate-toolkit.git
 cd appypie-automate-toolkit
 
 # Install dependencies
@@ -84,22 +84,22 @@ sales_templates = templates.get_templates_by_category("Sales & CRM")
 
 ## 📦 Supported Integrations
 
-This toolkit includes connectors for the most popular apps. The full [Appy Pie Automate platform](https://appypieautomate.ai/integrations) supports **600+ integrations**.
+This toolkit includes connectors for the most popular apps. The full [Appy Pie Automate platform](https://www.appypieautomate.ai/integrate/app-directory) supports **600+ integrations**.
 
 | Category | Apps |
 |----------|------|
-| **CRM** | [HubSpot](https://appypieautomate.ai/integrations/hubspot), [Salesforce](https://appypieautomate.ai/integrations/salesforce) |
-| **Email** | [Gmail](https://appypieautomate.ai/integrations/gmail), [Mailchimp](https://appypieautomate.ai/integrations/mailchimp) |
-| **Communication** | [Slack](https://appypieautomate.ai/integrations/slack), [Microsoft Teams](https://appypieautomate.ai/integrations/microsoft-teams), [Twilio](https://appypieautomate.ai/integrations/twilio) |
-| **Productivity** | [Google Sheets](https://appypieautomate.ai/integrations/google-sheets), [Trello](https://appypieautomate.ai/integrations/trello), [Notion](https://appypieautomate.ai/integrations/notion), [Asana](https://appypieautomate.ai/integrations/asana), [Google Calendar](https://appypieautomate.ai/integrations/google-calendar) |
-| **E-Commerce** | [Shopify](https://appypieautomate.ai/integrations/shopify), [WooCommerce](https://appypieautomate.ai/integrations/woocommerce) |
-| **Finance** | [Stripe](https://appypieautomate.ai/integrations/stripe), [QuickBooks](https://appypieautomate.ai/integrations/quickbooks) |
-| **Dev Tools** | [GitHub](https://appypieautomate.ai/integrations/github), [Jira](https://appypieautomate.ai/integrations/jira) |
-| **Storage** | [Google Drive](https://appypieautomate.ai/integrations/google-drive), [Dropbox](https://appypieautomate.ai/integrations/dropbox) |
-| **Social Media** | [LinkedIn](https://appypieautomate.ai/integrations/linkedin), [Facebook Pages](https://appypieautomate.ai/integrations/facebook-pages) |
-| **Support** | [Zendesk](https://appypieautomate.ai/integrations/zendesk) |
+| **CRM** | [HubSpot](https://www.appypieautomate.ai/integrate/apps/hubspot/integrations), [Salesforce](https://www.appypieautomate.ai/integrate/apps/salesforce/integrations) |
+| **Email** | [Gmail](https://www.appypieautomate.ai/integrate/apps/gmail/integrations), [Mailchimp](https://www.appypieautomate.ai/integrate/apps/mailchimp/integrations) |
+| **Communication** | [Slack](https://www.appypieautomate.ai/integrate/apps/slack/integrations), [Microsoft Teams](https://www.appypieautomate.ai/integrate/apps/microsoft-teams/integrations), [Twilio](https://www.appypieautomate.ai/integrate/apps/twilio/integrations) |
+| **Productivity** | [Google Sheets](https://www.appypieautomate.ai/integrate/apps/google-sheets/integrations), [Trello](https://www.appypieautomate.ai/integrate/apps/trello/integrations), [Notion](https://www.appypieautomate.ai/integrate/apps/notion/integrations), [Asana](https://www.appypieautomate.ai/integrate/apps/asana/integrations), [Google Calendar](https://www.appypieautomate.ai/integrate/apps/google-calendar/integrations) |
+| **E-Commerce** | [Shopify](https://www.appypieautomate.ai/integrate/apps/shopify/integrations), [WooCommerce](https://www.appypieautomate.ai/integrate/apps/woocommerce/integrations) |
+| **Finance** | [Stripe](https://www.appypieautomate.ai/integrate/apps/stripe/integrations), [QuickBooks](https://www.appypieautomate.ai/integrate/apps/quickbooks/integrations) |
+| **Dev Tools** | [GitHub](https://www.appypieautomate.ai/integrate/apps/github/integrations), [Jira](https://www.appypieautomate.ai/integrate/apps/jirasoftwarecloud/integrations) |
+| **Storage** | [Google Drive](https://www.appypieautomate.ai/integrate/apps/google-drive/integrations), [Dropbox](https://www.appypieautomate.ai/integrate/apps/dropbox/integrations) |
+| **Social Media** | [LinkedIn](https://www.appypieautomate.ai/integrate/apps/linkedin/integrations), [Facebook Pages](https://www.appypieautomate.ai/integrate/apps/facebook-page/integrations), [Instagram](https://www.appypieautomate.ai/integrate/apps/instagram/integrations), [Twitter](https://www.appypieautomate.ai/integrate/apps/twitter/integrations) |
+| **Support** | [Zendesk](https://www.appypieautomate.ai/integrate/apps/zendesk/integrations) |
 
-👉 **[Browse all 600+ integrations →](https://appypieautomate.ai/integrations)**
+👉 **[Browse all 600+ integrations →](https://www.appypieautomate.ai/integrate/app-directory)**
 
 ---
 
@@ -109,15 +109,15 @@ Ready-to-deploy automation templates included in this toolkit:
 
 | Template | Trigger → Action | Category |
 |----------|-----------------|----------|
-| Gmail to Slack Notifications | Gmail → Slack | Productivity |
-| Shopify Order to Google Sheets | Shopify → Sheets | E-Commerce |
-| HubSpot Lead to Slack Alert | HubSpot → Slack | Sales & CRM |
-| Stripe Payment to QuickBooks | Stripe → QuickBooks | Finance |
-| GitHub Issue to Jira Ticket | GitHub → Jira | DevOps |
-| Facebook Lead Ads to Mailchimp | Facebook → Mailchimp | Marketing |
-| Google Calendar to Teams | Calendar → Teams | Productivity |
-| WooCommerce Order to SMS | WooCommerce → Twilio | E-Commerce |
-| Lead Capture Pipeline | Sheets → CRM + Email + Slack | Marketing |
+| Gmail to Slack Notifications | [Gmail](https://www.appypieautomate.ai/integrate/apps/gmail/integrations) → [Slack](https://www.appypieautomate.ai/integrate/apps/slack/integrations) | Productivity |
+| Shopify Order to Google Sheets | [Shopify](https://www.appypieautomate.ai/integrate/apps/shopify/integrations) → [Sheets](https://www.appypieautomate.ai/integrate/apps/google-sheets/integrations) | E-Commerce |
+| HubSpot Lead to Slack Alert | [HubSpot](https://www.appypieautomate.ai/integrate/apps/hubspot/integrations) → [Slack](https://www.appypieautomate.ai/integrate/apps/slack/integrations) | Sales & CRM |
+| Stripe Payment to QuickBooks | [Stripe](https://www.appypieautomate.ai/integrate/apps/stripe/integrations) → [QuickBooks](https://www.appypieautomate.ai/integrate/apps/quickbooks/integrations) | Finance |
+| GitHub Issue to Jira Ticket | [GitHub](https://www.appypieautomate.ai/integrate/apps/github/integrations) → [Jira](https://www.appypieautomate.ai/integrate/apps/jirasoftwarecloud/integrations) | DevOps |
+| Facebook Lead Ads to Mailchimp | [Facebook Lead Ads](https://www.appypieautomate.ai/integrate/apps/facebook-lead-ads/integrations) → [Mailchimp](https://www.appypieautomate.ai/integrate/apps/mailchimp/integrations) | Marketing |
+| Google Calendar to Teams | [Google Calendar](https://www.appypieautomate.ai/integrate/apps/google-calendar/integrations) → [Teams](https://www.appypieautomate.ai/integrate/apps/microsoft-teams/integrations) | Productivity |
+| WooCommerce Order to SMS | [WooCommerce](https://www.appypieautomate.ai/integrate/apps/woocommerce/integrations) → [Twilio](https://www.appypieautomate.ai/integrate/apps/twilio/integrations) | E-Commerce |
+| Lead Capture Pipeline | [Sheets](https://www.appypieautomate.ai/integrate/apps/google-sheets/integrations) → CRM + Email + Slack | Marketing |
 | ...and 6 more | [See full list](docs/TEMPLATES.md) | Various |
 
 👉 **[Deploy templates on Appy Pie Automate →](https://appypieautomate.ai/dashboard)**
@@ -197,8 +197,15 @@ We welcome contributions! See [CONTRIBUTING.md](CONTRIBUTING.md) for guidelines.
 | **Create Automation** | [appypieautomate.ai/dashboard](https://appypieautomate.ai/dashboard) |
 | **Sign Up Free** | [appypieautomate.ai/signup](https://appypieautomate.ai/signup) |
 | **Login** | [appypieautomate.ai/login](https://appypieautomate.ai/login) |
-| **All Integrations** | [appypieautomate.ai/integrations](https://appypieautomate.ai/integrations) |
-| **Knowledge Base** | [appypieautomate.ai/kb](https://appypieautomate.ai/kb) |
+| **All Integrations** | [appypieautomate.ai/integrate/app-directory](https://www.appypieautomate.ai/integrate/app-directory) |
+| **Gmail Integration** | [integrate/apps/gmail](https://www.appypieautomate.ai/integrate/apps/gmail/integrations) |
+| **Slack Integration** | [integrate/apps/slack](https://www.appypieautomate.ai/integrate/apps/slack/integrations) |
+| **Shopify Integration** | [integrate/apps/shopify](https://www.appypieautomate.ai/integrate/apps/shopify/integrations) |
+| **HubSpot Integration** | [integrate/apps/hubspot](https://www.appypieautomate.ai/integrate/apps/hubspot/integrations) |
+| **Salesforce Integration** | [integrate/apps/salesforce](https://www.appypieautomate.ai/integrate/apps/salesforce/integrations) |
+| **Stripe Integration** | [integrate/apps/stripe](https://www.appypieautomate.ai/integrate/apps/stripe/integrations) |
+| **GitHub Integration** | [integrate/apps/github](https://www.appypieautomate.ai/integrate/apps/github/integrations) |
+| **Notion Integration** | [integrate/apps/notion](https://www.appypieautomate.ai/integrate/apps/notion/integrations) |
 | **Appy Pie** (Parent Company) | [appypie.com](https://www.appypie.com) |
 | **Appy Pie App Builder** | [appypie.com/app-builder](https://www.appypie.com/app-builder) |
 | **Appy Pie Website Builder** | [appypie.com/website-builder](https://www.appypie.com/website-builder) |
@@ -231,5 +238,5 @@ If you find this toolkit useful, please give it a ⭐ on GitHub! It helps us gro
   Built with ❤️ by <a href="https://appypieautomate.ai">Appy Pie Automate</a> ·
   <a href="https://appypieautomate.ai/signup">Sign Up Free</a> ·
   <a href="https://appypieautomate.ai/dashboard">Create Automation</a> ·
-  <a href="https://appypieautomate.ai/integrations">600+ Integrations</a>
+  <a href="https://www.appypieautomate.ai/integrate/app-directory">600+ Integrations</a>
 </p>
