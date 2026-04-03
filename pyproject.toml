@@ -1,0 +1,52 @@
+[build-system]
+requires = ["setuptools>=42", "wheel"]
+build-backend = "setuptools.build_meta"
+
+[project]
+name = "appypie-automate-toolkit"
+version = "2.1.0"
+description = "Open-source automation framework for building workflows across 600+ apps with Appy Pie Automate"
+readme = "README.md"
+requires-python = ">=3.9"
+license = {text = "MIT"}
+authors = [
+  {name = "Appy Pie Automate", email = "support@appypie.com"},
+]
+keywords = ["automation", "workflow", "no-code", "integration", "appypie", "automate", "zapier", "make", "n8n"]
+classifiers = [
+    "Development Status :: 4 - Beta",
+    "Intended Audience :: Developers",
+    "Intended Audience :: End Users/Desktop",
+    "License :: OSI Approved :: MIT License",
+    "Programming Language :: Python :: 3",
+    "Programming Language :: Python :: 3.9",
+    "Programming Language :: Python :: 3.10",
+    "Programming Language :: Python :: 3.11",
+    "Programming Language :: Python :: 3.12",
+    "Topic :: Software Development :: Libraries :: Python Modules",
+    "Topic :: Office/Business",
+    "Topic :: Internet :: WWW/HTTP",
+]
+dependencies = [
+    "streamlit>=1.32.0",
+    "pandas>=2.0.0",
+    "numpy>=1.24.0",
+    "requests>=2.31.0",
+    "pyyaml>=6.0",
+    "python-dotenv>=1.0.0",
+]
+
+[project.urls]
+Homepage = "https://appypieautomate.ai"
+"App Directory" = "https://www.appypieautomate.ai/integrate/app-directory"
+Documentation = "https://helpdesk.appypieautomate.ai/portal/en/kb/automate"
+"Sign Up" = "https://accounts.appypie.com/register?frompage=https%3A%2F%2Fconnectcloud.appypie.com%2Fbuild-your-connect%2Fapps__for__temp__7949b884b42011edbc3912bed232506d&lang=en"
+Repository = "https://github.com/devendra-droid/appypie-automate-toolkit"
+"Bug Tracker" = "https://github.com/devendra-droid/appypie-automate-toolkit/issues"
+
+[project.scripts]
+appypie-automate = "src:main"
+
+[tool.setuptools.packages.find]
+where = ["."]
+include = ["src*"]
