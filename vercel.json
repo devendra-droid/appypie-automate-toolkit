@@ -1,0 +1,22 @@
+{
+  "name": "appypie-automate-toolkit",
+  "version": 2,
+  "builds": [
+    {
+      "src": "app.py",
+      "use": "@vercel/python",
+      "config": { "maxLambdaSize": "50mb", "runtime": "python3.10" }
+    }
+  ],
+  "routes": [
+    { "src": "/(.*)", "dest": "app.py" }
+  ],
+  "env": {
+    "APPYPIE_AUTOMATE_URL": "https://appypieautomate.ai",
+    "APP_DIRECTORY_URL": "https://www.appypieautomate.ai/integrate/app-directory",
+    "DOCS_URL": "https://helpdesk.appypieautomate.ai/portal/en/kb/automate"
+  },
+  "github": {
+    "silent": true
+  }
+}
