@@ -1,0 +1,24 @@
+{
+  "name": "appypie-automate",
+  "version": "2.1.0",
+  "description": "JavaScript SDK for Appy Pie Automate — connect 600+ apps with no-code workflow automation",
+  "main": "index.js",
+  "types": "index.d.ts",
+  "scripts": {
+    "test": "node test.js"
+  },
+  "keywords": ["automation","workflow","no-code","integration","appypie","zapier","make","n8n","webhook"],
+  "author": "Appy Pie Automate <support@appypie.com>",
+  "license": "MIT",
+  "homepage": "https://appypieautomate.ai",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/devendra-droid/appypie-automate-toolkit.git"
+  },
+  "bugs": {
+    "url": "https://github.com/devendra-droid/appypie-automate-toolkit/issues"
+  },
+  "engines": {
+    "node": ">=14.0.0"
+  }
+}
