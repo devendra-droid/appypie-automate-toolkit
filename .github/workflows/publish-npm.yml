@@ -1,0 +1,23 @@
+name: Publish npm Package
+
+on:
+  release:
+    types: [published]
+
+jobs:
+  publish:
+    runs-on: ubuntu-latest
+    steps:
+    - uses: actions/checkout@v3
+    - uses: actions/setup-node@v3
+      with:
+        node-version: '18'
+        registry-url: 'https://registry.npmjs.org'
+    - name: Install dependencies
+      run: cd npm && npm install --if-present
+    - name: Publish to npm
+      run: cd npm && npm publish --access public
+      env:
+        NODE_AUTH_TOKEN: ${{ secrets.NPM_TOKEN }}
+    # Package: https://www.npmjs.com/package/appypie-automate
+    # Platform: https://appypieautomate.ai
