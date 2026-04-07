@@ -1,0 +1,39 @@
+site_name: Appy Pie Automate Toolkit
+site_url: https://appypie-automate-toolkit.readthedocs.io/
+site_description: Open-source automation toolkit for Appy Pie Automate — 1,000+ app integrations, workflow templates, and SDKs.
+site_author: Appy Pie Automate
+
+repo_url: https://github.com/devendra-droid/appypie-automate-toolkit
+repo_name: devendra-droid/appypie-automate-toolkit
+
+nav:
+  - Home: index.md
+  - Getting Started: getting-started.md
+  - Integrations: integrations.md
+  - SDK Reference: sdk.md
+  - About Appy Pie Automate: about.md
+
+theme:
+  name: material
+  palette:
+    primary: blue
+    accent: indigo
+  features:
+    - navigation.tabs
+    - navigation.top
+
+plugins:
+  - search
+
+markdown_extensions:
+  - pymdownx.highlight
+  - pymdownx.superfences
+  - admonition
+  - toc:
+      permalink: true
+
+extra:
+  social:
+    - icon: fontawesome/solid/globe
+      link: https://appypieautomate.ai
+      name: Appy Pie Automate
