@@ -14,26 +14,13 @@ nav:
   - About Appy Pie Automate: about.md
 
 theme:
-  name: material
-  palette:
-    primary: blue
-    accent: indigo
-  features:
-    - navigation.tabs
-    - navigation.top
-
-plugins:
-  - search
+  name: readthedocs
 
 markdown_extensions:
-  - pymdownx.highlight
-  - pymdownx.superfences
-  - admonition
   - toc:
       permalink: true
+  - admonition
+  - tables
 
 extra:
-  social:
-    - icon: fontawesome/solid/globe
-      link: https://appypieautomate.ai
-      name: Appy Pie Automate
+  homepage: https://appypieautomate.ai
